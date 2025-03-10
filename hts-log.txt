@@ -1,0 +1,32 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 13 Jan 2025 04:08:21 at https://mmservicinginc.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mmservicinginc.com/ -O1 "C:\My Web Sites\NEWNN" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+04:09:57	Warning: 	Retry after error -4 (No data (connection closed)) at link https://mmservicinginc.com/assets/fonts/Roobert-Light.lite.woff2 (from https://mmservicinginc.com/)
+
+04:11:13	Error: 	"Not Found" (404) at link https://mmservicinginc.com/partners.html (from https://mmservicinginc.com/)
+
+04:11:13	Error: 	"Not Found" (404) at link https://mmservicinginc.com/insights.html (from https://mmservicinginc.com/)
+
+04:11:20	Error: 	"Not Found" (404) at link https://mmservicinginc.com/GET (from https://mmservicinginc.com/assets/libs/prismjs/prism.js)
+
+04:11:20	Error: 	"Not Found" (404) at link https://mmservicinginc.com/externale367.html?link=http://www.w3.org/1999/xlink (from https://mmservicinginc.com/images/136b99077abe98ddd777da4dbb250539.svg)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 59 seconds : 186 links scanned, 180 files written (10798789 bytes overall) [8054385 bytes received at 44996 bytes/sec], 3884966 bytes transferred using HTTP compression in 63 files, ratio 26%, 6.4 requests per connection
+
+(4 errors, 1 warnings, 0 messages)
+
